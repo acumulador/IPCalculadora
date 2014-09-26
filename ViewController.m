@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    _resultLabel.text = @"!!!!";
+    _resultLabel.text = @"!!";
 }
 
 - (void)didReceiveMemoryWarning {
